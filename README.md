@@ -10,3 +10,4 @@
 |3-4|[Установка](https://docs.google.com/presentation/d/1kiqcAAA9dogxqDtcxiSx3IPpY-Hnefrhn3AAHGBaIjE/edit?usp=sharing)|20.09.2025|-|
 |5|[SQL](https://docs.google.com/presentation/d/1fb4uNYOm9PF2SIyi9RUHIGp8PphymYNDB41vepkWEjE/edit?usp=sharing)|04.10.2025|-|
 |6|[Джойны. Группировки. Подзапросы](https://docs.google.com/presentation/d/1w-ZAAaPdJo0t5vMt4CJZwhsfYibNUCu902xhSV-UDX4/edit?usp=sharing)|11.10.2025|-|
+|7|[Объекты](https://docs.google.com/presentation/d/1V_7yL372YiDu7gos4FRxcjjzTialv2LQaCPdAson6kM/edit?usp=sharing)|23.10.2025|ДЗ2 01.11 23:59|
