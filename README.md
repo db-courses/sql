@@ -14,4 +14,4 @@
 |8|[Транзакции](https://docs.google.com/presentation/d/1X4q_zbLnc1SHGNGlOGKcysJNWQNlgJrkkCYcJ97IqhE/edit?usp=drive_link)|08.11.2025|ЛР 19.11 23:59|
 |9|[NoSQL](https://docs.google.com/presentation/d/1NsuBQd1bVEqQoVXrDkGCN4TvkRRx7W7JI4LH-ebNx18/edit?usp=drive_link)|08.11.2025|-|
 |10|[Ключ-значение. "Издатель-подписчик"](https://docs.google.com/presentation/d/1-xULaRm133WcO4JMaDdYKkJMx89PWS38C_gpqHfbwzo/edit?usp=sharing)|11.11.2025|-|
-|10|[Ключ-значение. "Издатель-подписчик". Практика](https://docs.google.com/presentation/d/1-xULaRm133WcO4JMaDdYKkJMx89PWS38C_gpqHfbwzo/edit?usp=sharing)|13.11.2025|-|
+|11|[Ключ-значение. "Издатель-подписчик". Практика](https://docs.google.com/presentation/d/1-xULaRm133WcO4JMaDdYKkJMx89PWS38C_gpqHfbwzo/edit?usp=sharing)|13.11.2025|-|
