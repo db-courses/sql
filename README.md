@@ -12,6 +12,3 @@
 |6|[Джойны. Группировки. Подзапросы](https://docs.google.com/presentation/d/1w-ZAAaPdJo0t5vMt4CJZwhsfYibNUCu902xhSV-UDX4/edit?usp=sharing)|11.10.2025|-|
 |7|[Объекты](https://docs.google.com/presentation/d/1V_7yL372YiDu7gos4FRxcjjzTialv2LQaCPdAson6kM/edit?usp=sharing)|23.10.2025|ДЗ2 04.11 23:59|
 |8|[Транзакции](https://docs.google.com/presentation/d/1X4q_zbLnc1SHGNGlOGKcysJNWQNlgJrkkCYcJ97IqhE/edit?usp=drive_link)|08.11.2025|ЛР 19.11 23:59|
-|9|[NoSQL](https://docs.google.com/presentation/d/1NsuBQd1bVEqQoVXrDkGCN4TvkRRx7W7JI4LH-ebNx18/edit?usp=drive_link)|08.11.2025|-|
-|10|[Ключ-значение. "Издатель-подписчик"](https://docs.google.com/presentation/d/1-xULaRm133WcO4JMaDdYKkJMx89PWS38C_gpqHfbwzo/edit?usp=sharing)|11.11.2025|-|
-|11|[Ключ-значение. "Издатель-подписчик". Практика](https://docs.google.com/presentation/d/1-xULaRm133WcO4JMaDdYKkJMx89PWS38C_gpqHfbwzo/edit?usp=sharing)|13.11.2025|-|
